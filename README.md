@@ -2,6 +2,10 @@
 
 Este repositorio contiene mis soluciones en python a los retos propuestos en el [Codember](https://codember.dev/) edición 2023 de @midudev 💻🐍
 
+# Score
+
+![Current Score](/score.PNG)
+
 # Challenges
 
 | #   | Challenge                                                      | Implementation                                      |
