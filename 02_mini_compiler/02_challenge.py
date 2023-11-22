@@ -1,6 +1,7 @@
-string = "&###@&*&###@@##@##&######@@#####@#@#@#@##@@@@@@@@@@@@@@@*&&@@@@@@@@@####@@@@@@@@@#########&#&##@@##@@##@@##@@##@@##@@##@@##@@##@@##@@##@@##@@##@@##@@##@@&"
+from input_02 import txt
+
 result = 0
-for letter in string:
+for letter in txt:
     match letter:
         case "#":
             result += 1
